@@ -7,4 +7,5 @@ This is the backend for a housing application. It provides APIs for user authent
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/karmateen/kmt.git
+   git clone https://github.com/karmat-1/housing-api.git
+```
